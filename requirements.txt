@@ -3,3 +3,6 @@ torch==2.0.1
 torchaudio==2.0.2
 torchmetrics==1.0.0
 torchvision==0.15.2
+ipykernel
+ipython
+numpy<2
